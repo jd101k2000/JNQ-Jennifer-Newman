@@ -1,0 +1,53 @@
+/* begin Box, Sheet */
+
+.art-Sheet-body
+{
+	zoom: 1;
+}
+/* end Box, Sheet */
+
+/* begin MenuItem */
+.art-menu a .r
+{
+	clip: rect(auto auto auto 400px);
+}
+/* end MenuItem */
+
+/* begin Box, Block */
+
+.art-Block-body
+{
+	zoom: 1;
+}
+/* end Box, Block */
+
+/* begin Box, BlockContent */
+
+.art-BlockContent-body
+{
+	zoom: 1;
+}
+/* end Box, BlockContent */
+
+/* begin Box, Post */
+
+.art-Post-body
+{
+	zoom: 1;
+}
+/* end Box, Post */
+
+/* begin PostContent */
+.art-PostContent
+{
+	height:1%;
+}
+/* end PostContent */
+
+/* begin Button */
+.art-button-wrapper .r
+{
+	clip: rect(auto auto auto 407px);
+}
+/* end Button */
+

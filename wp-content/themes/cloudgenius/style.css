@@ -1,0 +1,91 @@
+/*
+Theme Name: Cloud Genius Stub
+Theme URI: http://weavertheme.com
+Description: Cloud Genius Theme stub
+Author: Bruce Wampler
+Author URI: http://weavertheme.com/about
+Version: 1.2
+Tags: custom-header, custom-colors, custom-background, custom-menu, theme-options, left-sidebar, right-sidebar, fixed-width, three-columns, two-columns, black, blue, brown, green, orange, red, tan, dark, white, light
+Template: weaver-ii-pro
+
+!!!!!!!!!!!!!!!!! IMPORTANT: Change above from weaver-ii to weaver-ii-pro for Pro version !!!!!!!!!!!!!!!!
+
+This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+
+
+/* Use the following @import for parent Weaver II theme.
+  IMPORTANT:
+  For free weaver, the @import line should use: url('../weaver-ii/style.min.css')
+  For Weaver II Pro, you MUST make two changes.
+	For the @import, use: url('../weaver-ii-pro/style.min.css')
+    AND
+	Change the above line "Template: weaver-ii" to be "Template: weaver-ii-pro"
+
+*/
+@import url('../weaver-ii-pro/style.min.css');	/* alternatively, you can use style.css instead of style.min.css */
+
+/* Minified version: You can create a minified version of this file for your child theme
+  directory called style.min.css. If you do that, you MUST have both the child style.css and
+  the child style.min.css. The style.min.css version will be used automatically if it is defined.
+
+  ------------------------------------------------------
+ Add specific style overrides here...
+
+  Just for example, this style will increase the base font size of the site.
+*/
+
+#sidebar_wrap_footer.one .widget-in-footer {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.entry-attachment img, #content .gallery img, #content .gallery-thumb img, #content img[class*="wp-image-"] {
+    border: none none;
+    margin-bottom: 50px;
+    padding: 0;
+    text-align: center;
+}
+
+.widget li {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	width:47%;
+	float:left;
+	line-height: 2em;
+	margin-right:6px;
+}
+
+
+entry-attachment img, #content .gallery img, #content .gallery-thumb img, #content img[class*="wp-image-"] {
+   
+  margin-bottom: 6px;
+    margin-right: 11px;
+    text-align: center;
+}
+
+aside#swboc-8.widget {
+background:#f1f1f1; padding:5px;
+min-height:154px;
+}
+
+aside#text-7.widget {
+height: 14px;
+}
+
+div#content {
+margin-left:2px;
+margin-right:0px;
+}

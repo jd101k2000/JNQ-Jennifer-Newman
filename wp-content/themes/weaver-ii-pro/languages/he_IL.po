@@ -1,0 +1,559 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Bruce <weavertheme@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+msgid "%1$s at %2$s"
+msgstr "%1$s בשעה %2$s"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "מאת %1$s בתאריך %2$s<span class=\"says\">:&rlm;</span>"
+
+#. Text in function
+#: weaver-ii-pro/comments.php:67
+msgid "&larr; Older Comments"
+msgstr "&rarr; תגובות ישנות יותר"
+
+#. Text in function
+#: weaver-ii-pro/image.php:106
+msgid "&larr; Previous"
+msgstr "&rarr; התמונה הקודמת"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+#: weaver-ii-pro/functions.php:974
+#: weaver-ii-pro/content-image.php:57
+msgid ", "
+msgstr ", "
+
+#. Text in function
+#: weaver-ii-pro/content-image.php:57
+msgid "<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\" pubdate>%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+msgstr "<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\" pubdate>%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> מאת </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+
+#. Text in function
+#: weaver-ii-pro/content-chat.php:52
+#: weaver-ii-pro/functions.php:832
+#: weaver-ii-pro/functions.php:992
+#: weaver-ii-pro/functions.php:2080
+#: weaver-ii-pro/functions.php:1197
+msgid "<b>%</b> Replies"
+msgstr "<b>%</b> תגובות"
+
+#. Text in function
+#: weaver-ii-pro/content-chat.php:52
+#: weaver-ii-pro/functions.php:832
+#: weaver-ii-pro/functions.php:992
+#: weaver-ii-pro/functions.php:2080
+#: weaver-ii-pro/functions.php:1197
+msgid "<b>1</b> Reply"
+msgstr "תגובה <b>אחת</b>"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+#: weaver-ii-pro/functions.php:971
+#: weaver-ii-pro/content-image.php:54
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">פורסם בקטגוריה</span> %2$s"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:982
+#: weaver-ii-pro/content-image.php:62
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">עם התגים</span> %2$s"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:582
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&rarr;</span> פוסטים ישנים יותר"
+
+#. Text in function
+#: weaver-ii-pro/single.php:49
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&rarr;</span> הקודם"
+
+#. Text in function
+#: weaver-ii-pro/image.php:37
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">פורסם</span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> ב <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> ב<a href=\"%6$s\" title=\"חזרה אל %7$s\" rel=\"gallery\">%8$s</a>"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+msgid "<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "<span class=\"sep\">פורסם בתאריך </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> מאת </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#. Text in function
+#: weaver-ii-pro/includes/pro/weaverii-pro-sc-feed.php:54
+msgid "<b>RSS Error</b>: %s"
+msgstr "בעיה ב-RSS: %s"
+
+#. Text in function
+#: weaver-ii-pro/includes/shortcodes.php:133
+#: weaver-ii-pro/content-single.php:42
+#: weaver-ii-pro/author.php:59
+msgid "About %s"
+msgstr "על אודות %s"
+
+#. Text in function
+#: weaver-ii-pro/includes/pro/weaverii-pro-sc-feed.php:54
+msgid "An error has occurred; the feed is probably down. Try again later."
+msgstr "לא הצלחתי להגיע לפיד - השרת כנראה לא פעיל. כדאי לנסות שוב מאוחר יותר."
+
+#. Text in function
+#: weaver-ii-pro/category.php:65
+#: weaver-ii-pro/archive.php:70
+#: weaver-ii-pro/tag.php:64
+#: weaver-ii-pro/author.php:87
+#: weaver-ii-pro/index.php:103
+#: weaver-ii-pro/paget-posts.php:149
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "ביקשת להציג פוסטים מהארכיון, אבל אין פוסטים בארכיון שביקשת לראות. אם רצית פוסט מסויים, אפשר לנסות לחפש אותו."
+
+#. Text in function
+#: weaver-ii-pro/content-aside.php:19
+msgid "Aside"
+msgstr "הערה"
+
+#. Text in function
+#: weaver-ii-pro/author.php:37
+msgid "Author Archives: %s"
+msgstr "ארכיון פוסטים מאת: %s&rlm;"
+
+#. Text in function
+#: weaver-ii-pro/content-sitemap.php:21
+msgid "Authors"
+msgstr "מאת"
+
+#. Text in function
+#: weaver-ii-pro/includes/lib-runtime.php:1603
+msgid "Blog"
+msgstr "בלוג"
+
+#. Text in function
+#: weaver-ii-pro/archive.php:33
+msgid "Blog Archives"
+msgstr "ארכיון הבלוג"
+
+#. Text in function
+#: weaver-ii-pro/content-sitemap.php:21
+msgid "Categories"
+msgstr "קטגוריות"
+
+#. Text in function
+#: weaver-ii-pro/category.php:27
+msgid "Category Archives: %s"
+msgstr "ארכיון הקטגוריה: %s"
+
+#. Text in function
+#: weaver-ii-pro/content-chat.php:17
+msgid "Chat"
+msgstr "צ'אט"
+
+#. Text in function
+#: weaver-ii-pro/comments.php:66
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+msgid "Comment on %s"
+msgstr "תגובה לפוסט: &quot;%s&quot;&rlm;"
+
+#. Text in function
+#: weaver-ii-pro/comments.php:38
+msgid "Comments"
+msgstr "תגובות "
+
+#. Text in function
+#: weaver-ii-pro/comments.php:78
+msgid "Comments are closed."
+msgstr "סגור לתגובות."
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "להמשיך לקרוא <span class=\"meta-nav\">&larr;</span>"
+
+#. Text in function
+#: weaver-ii-pro/archive.php:33
+msgid "Daily Archives: %s"
+msgstr "ארכיון יומי: %s"
+
+#. Text in function
+#: weaver-ii-pro/content-sitemap.php:52
+#: weaver-ii-pro/content-chat.php:59
+#: weaver-ii-pro/content-page2col.php:64
+#: weaver-ii-pro/functions.php:657
+#: weaver-ii-pro/functions.php:685
+#: weaver-ii-pro/functions.php:839
+#: weaver-ii-pro/functions.php:2080
+#: weaver-ii-pro/functions.php:994
+#: weaver-ii-pro/content-pwp.php:19
+#: weaver-ii-pro/content-image.php:71
+#: weaver-ii-pro/content-html.php:69
+#: weaver-ii-pro/content-page.php:25
+#: weaver-ii-pro/image.php:49
+msgid "Edit"
+msgstr "לערוך"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+msgid "Enter your password to view comments."
+msgstr "הפוסט הזה מוגן בסיסמה. צריך להזין את הסיסמה כדי לראות את התגובות."
+
+#. Text in function
+#: weaver-ii-pro/includes/lib-runtime.php:1603
+msgid "404"
+msgstr "404"
+
+#. Text in function
+#: weaver-ii-pro/content-gallery.php:19
+msgid "Gallery"
+msgstr "גלריה"
+
+#. Text in function
+#: weaver-ii-pro/includes/lib-runtime.php:1603
+msgid "Home"
+msgstr "ראשי"
+
+#. Text in function
+#: weaver-ii-pro/content-image.php:18
+msgid "Image"
+msgstr "תמונה"
+
+#. Text in function
+#: weaver-ii-pro/image.php:105
+msgid "Image navigation"
+msgstr "ניווט בתמונות"
+
+#. Text in function
+#: weaver-ii-pro/404.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "לא מצאתי את מה שרצית. אולי זה נמצא באחד הקישורים למטה? בכל מקרה, תמיד אפשר להשתמש בחיפוש."
+
+#. Text in function
+#: weaver-ii-pro/content-chat.php:52
+#: weaver-ii-pro/functions.php:832
+#: weaver-ii-pro/functions.php:992
+#: weaver-ii-pro/functions.php:2080
+#: weaver-ii-pro/functions.php:1197
+msgid "Leave a reply"
+msgstr "להגיב"
+
+#. Text in function
+#: weaver-ii-pro/content-link.php:19
+msgid "Link"
+msgstr "קישור"
+
+#. Text in function
+#: weaver-ii-pro/includes/widgets.php:116
+msgid "Log in/out, admin"
+msgstr "התחברות/יציאה מהמערכת, קישור לממשק הניהול, קישורים לפידים וקישור לוורדפרס"
+
+#. Text in function
+#: weaver-ii-pro/includes/widgets.php:116
+msgid "Login"
+msgstr "כניסה"
+
+#. Text in function
+#: weaver-ii-pro/includes/lib-runtime.php:1603
+msgid "Menu"
+msgstr "תפריט"
+
+#. Text in function
+#: weaver-ii-pro/archive.php:33
+msgid "Monthly Archives: %s"
+msgstr "ארכיון חודשי: %s"
+
+#. Text in function
+#: weaver-ii-pro/404.php:37
+msgid "Most Used Categories"
+msgstr "קטגוריות בולטות"
+
+#. Text in function
+#: weaver-ii-pro/comments.php:68
+msgid "Newer Comments &rarr;"
+msgstr "תגובות חדשות יותר &larr;"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:583
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "פוסטים חדשים יותר <span class=\"meta-nav\">&larr;</span>"
+
+#. Text in function
+#: weaver-ii-pro/image.php:107
+msgid "Next &rarr;"
+msgstr "התמונה הבאה &larr;"
+
+#. Text in function
+#: weaver-ii-pro/single.php:50
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "הבא <span class=\"meta-nav\">&larr;</span>"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:558
+msgid "Next Post"
+msgstr "הפוסט הבא"
+
+#. Text in function
+#: weaver-ii-pro/category.php:61
+#: weaver-ii-pro/archive.php:66
+#: weaver-ii-pro/tag.php:60
+#: weaver-ii-pro/author.php:83
+#: weaver-ii-pro/index.php:99
+#: weaver-ii-pro/paget-posts.php:145
+#: weaver-ii-pro/search.php:54
+msgid "Nothing Found"
+msgstr "לא מצאתי כלום"
+
+#. Text in function
+#: weaver-ii-pro/includes/lib-runtime.php:1603
+msgid "Page"
+msgstr "עמוד "
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+msgid "Page %s"
+msgstr "עמוד %s"
+
+#. Text in function
+#: weaver-ii-pro/includes/lib-runtime.php:1603
+msgid "Page Not Found"
+msgstr "העמוד לא נמצא"
+
+#. Text in function
+#: weaver-ii-pro/content-sitemap.php:21
+msgid "Pages"
+msgstr "עמודים"
+
+#. Text in function
+#: weaver-ii-pro/content-aside.php:36
+#: weaver-ii-pro/content-sitemap.php:21
+#: weaver-ii-pro/content-chat.php:52
+#: weaver-ii-pro/content-gallery.php:53
+#: weaver-ii-pro/content-quote.php:38
+#: weaver-ii-pro/content-page2col.php:61
+#: weaver-ii-pro/content-link.php:36
+#: weaver-ii-pro/content-single.php:29
+#: weaver-ii-pro/content-blank.php:18
+#: weaver-ii-pro/content.php:43
+#: weaver-ii-pro/content-pwp.php:22
+#: weaver-ii-pro/content-image.php:31
+#: weaver-ii-pro/content-status.php:40
+#: weaver-ii-pro/content-html.php:66
+#: weaver-ii-pro/content-page.php:21
+#: weaver-ii-pro/image.php:98
+msgid "Pages:"
+msgstr "עמודים:"
+
+#. Text in function
+#: weaver-ii-pro/includes/shortcodes.php:117
+#: weaver-ii-pro/content-gallery.php:47
+#: weaver-ii-pro/functions.php:768
+#: weaver-ii-pro/functions.php:1542
+msgid "Permalink to %s"
+msgstr "קישור קבוע לפוסט %s"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:657
+msgid "Pingback:"
+msgstr "פינגבאק:"
+
+#. Text in function
+#: weaver-ii-pro/includes/lib-runtime.php:1603
+msgid "Post Formats"
+msgstr "סוגי תוכן"
+
+#. Text in function
+#: weaver-ii-pro/single.php:46
+#: weaver-ii-pro/functions.php:553
+msgid "Post navigation"
+msgstr "ניווט בפוסטים"
+
+#. Text in function
+#: weaver-ii-pro/content-sitemap.php:21
+msgid "Posts"
+msgstr "פוסטים"
+
+#. Text in function
+#: weaver-ii-pro/includes/lib-runtime.php:1603
+msgid "Published"
+msgstr "פורסם"
+
+#. Text in function
+#: weaver-ii-pro/includes/lib-runtime.php:1603
+msgid "Author"
+msgstr "כותב"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:557
+msgid "Previous Post"
+msgstr "הפוסט הקודם"
+
+#. Text in function
+#: weaver-ii-pro/footer.php:55
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#. Text in function
+#: weaver-ii-pro/content-quote.php:17
+msgid "Quote"
+msgstr "ציטוט"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:1240
+#: weaver-ii-pro/content-image.php:67
+msgid "Reply"
+msgstr "להגיב"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:698
+msgid "Reply <span>&darr;</span>"
+msgstr "להגיב <span>&darr;</span>"
+
+#. Text in function
+#: weaver-ii-pro/search.php:29
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#. Text in function
+#: weaver-ii-pro/includes/lib-runtime.php:1603
+msgid "Search Results"
+msgstr "תוצאות חיפוש"
+
+#. Text in function
+#: weaver-ii-pro/includes/pro/weaverii-pro-sc-search.php:31
+#: weaver-ii-pro/searchform.php:1
+msgid "Search for:"
+msgstr "חיפוש: "
+
+#. Text in function
+#: weaver-ii-pro/nav-bottom.php:16
+#: weaver-ii-pro/nav-top.php:16
+msgid "Skip to primary content"
+msgstr "לדלג לתוכן"
+
+#. Text in function
+#: weaver-ii-pro/nav-bottom.php:17
+#: weaver-ii-pro/nav-top.php:17
+msgid "Skip to secondary content"
+msgstr "לדלג לתוכן המשני"
+
+#. Text in function
+#: weaver-ii-pro/search.php:58
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "לא מצאתי שום דבר מתאים - אולי כדאי לנסות מילות חיפוש אחרות."
+
+#. Text in function
+#: weaver-ii-pro/404.php:22
+msgid "Sorry, no such page."
+msgstr "בעיה: אין עמוד כזה."
+
+#. Text in function
+#: weaver-ii-pro/content-status.php:18
+msgid "Status"
+msgstr "מצב"
+
+#. Text in function
+#: weaver-ii-pro/includes/pro/weaverii-pro-sc-feed.php:54
+msgid "Syndicate this content"
+msgstr "פיד RSS"
+
+#. Text in function
+#: weaver-ii-pro/includes/lib-runtime.php:1603
+msgid "Tags"
+msgstr "תגים"
+
+#. Text in function
+#: weaver-ii-pro/tag.php:27
+msgid "Tag Archives: %s"
+msgstr "ארכיון התג: %s"
+
+#. Text in function
+#: weaver-ii-pro/content-sitemap.php:21
+msgid "Tag Cloud"
+msgstr "ענן תגים"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+msgid "This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "מאת <a href=\"%6$s\">%5$s</a>. אפשר להגיע ישירות לפוסט זה <a href=\"%3$s\" title=\"קישור ישיר לפוסט %4$s\" rel=\"bookmark\">עם קישור ישיר</a>."
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+msgid "This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "פוסט זה פורסם בקטגוריה %1$s, עם התגים %2$s, מאת <a href=\"%6$s\">%5$s</a>. אפשר להגיע ישירות לפוסט זה <a href=\"%3$s\" title=\"קישור ישיר לפוסט %4$s\" rel=\"bookmark\">עם קישור ישיר</a>."
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+msgid "This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "פוסט זה פורסם בקטגוריה %1$s, מאת <a href=\"%6$s\">%5$s</a>. אפשר להגיע ישירות לפוסט זה <a href=\"%3$s\" title=\"קישור ישיר לפוסט %4$s\" rel=\"bookmark\">עם קישור ישיר</a>."
+
+#. Text in function
+#: weaver-ii-pro/comments.php:19
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "זהו פוסט מוגן - נדרשת סיסמה כדי לקרוא את התגובות."
+
+#. Text in function
+#: weaver-ii-pro/404.php:43
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#. Text in function
+#: weaver-ii-pro/includes/pro/weaverii-pro-sc-feed.php:54
+msgid "Unknown Feed"
+msgstr "פיד לא מוכר"
+
+#. Text in function
+#: weaver-ii-pro/includes/pro/weaverii-pro-sc-feed.php:54
+msgid "Untitled"
+msgstr "ללא כותרת"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:2080
+#: weaver-ii-pro/content-image.php:57
+msgid "View all posts by %s"
+msgstr "להציג את כל הפוסטים מאת %s&rlm;"
+
+#. Text in function
+#: weaver-ii-pro/includes/shortcodes.php:137
+#: weaver-ii-pro/content-single.php:46
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "להציג את כל הפוסטים מאת %s&rlm; <span class=\"meta-nav\">&larr;</span>"
+
+#. Text in function
+#: weaver-ii-pro/includes/widgets.php:116
+msgid "Welcome"
+msgstr "ברוכים הבאים"
+
+#. Text in function
+#: weaver-ii-pro/archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "ארכיון שנתי: %s"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:689
+msgid "Your comment is awaiting moderation."
+msgstr "תגובתך ממתינה לאישור."
+
+#. Text in function
+#: weaver-ii-pro/footer.php:55
+msgid "http://wordpress.org/"
+msgstr "http://he.wordpress.org/"
+
+#. Text in function
+#: weaver-ii-pro/functions.php:953
+#: weaver-ii-pro/functions.php:2080
+msgid "permalink"
+msgstr "קישור ישיר"
+
