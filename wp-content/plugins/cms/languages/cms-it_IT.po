@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CMS in italiano\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-22 15:13+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao[at]gmail[dot]com>\n"
+"Language-Team: Gianni Diurno | gidibao.net <gidibao[at]gmail[dot]com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: \\\\Fileserver\\websites\\Trendwerk\\test\\wp-content\\plugins\\trendwerk\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SearchPath-0: \\\\Fileserver\\websites\\Trendwerk\\test\\wp-content\\plugins\\cms\n"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/logo.php:12
+msgid "Visit Site"
+msgstr "Visualizza sito"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq.php:73
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/menu_adjustments.php:57
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:102
+msgid "FAQ"
+msgstr "FAQ"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq.php:74
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:21
+msgid "Questions"
+msgstr "Domande"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq.php:75
+msgid "Categories"
+msgstr "Categorie"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq.php:76
+msgid "Options"
+msgstr "Opzioni"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq.php:211
+msgid "General"
+msgstr "Generale"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/page_manager.php:69
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/page_manager.php:128
+msgid "Change order"
+msgstr "Modifica ordine"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/page_manager.php:70
+msgid "Title"
+msgstr "Titolo"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/page_manager.php:71
+msgid "Author"
+msgstr "Autore"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/page_manager.php:72
+msgid "<div class=\"vers\"><img src=\"images/comment-grey-bubble.png\" alt=\"\"/></div>"
+msgstr "<div class=\"vers\"><img src=\"images/comment-grey-bubble.png\" alt=\"\"/></div>"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/page_manager.php:73
+msgid "Date"
+msgstr "Data"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/custom_feed.php:9
+msgid "Nieuws"
+msgstr "News"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/menu_adjustments.php:24
+msgid "Pages"
+msgstr "Pagine"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/menu_adjustments.php:25
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/menu_adjustments.php:31
+msgid "Edit"
+msgstr "Modifica"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/menu_adjustments.php:26
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/menu_adjustments.php:32
+msgid "Add new"
+msgstr "Aggiungi nuova"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/menu_adjustments.php:30
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:100
+msgid "Posts"
+msgstr "Articoli"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/menu_adjustments.php:33
+msgid "Tags"
+msgstr "Tag"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/menu_adjustments.php:49
+msgid "Forms"
+msgstr "Moduli"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/menu_adjustments.php:51
+msgid "Gallery"
+msgstr "Galleria"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/menu_adjustments.php:53
+msgid "Global content"
+msgstr "Contenuto globale"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:17
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:72
+msgid "CMS Settings"
+msgstr "Impostazioni CMS"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:60
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:74
+msgid "General information"
+msgstr "Informazioni generali"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:75
+msgid "Sitename"
+msgstr "Nome del sito"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:98
+msgid "Admin options"
+msgstr "Opzioni amministratore"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:99
+msgid "Switched on components"
+msgstr "Aggiorna componenti"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:101
+msgid "Comments"
+msgstr "Commenti"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:104
+msgid "Custom admin-panel logo"
+msgstr "Personalizza logo pannello amministrazione"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:105
+msgid "Remove custom logo"
+msgstr "Rimuovi logo personalizzato"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:105
+msgid "Are you sure you want to remove the custom logo?"
+msgstr "Sei certo di volere rimuovere il logo personalizzato?"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:106
+msgid "(the image should be 60px(w) by 50px(h) in PNG format with a transparent background)"
+msgstr "(dimensione immagine: 60px(l) per 50px(h) in formato PNG con sfondo trasparente)"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:108
+msgid "Wordpress fixes/add-ons"
+msgstr "Wordpress correzioni/add-ons"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:109
+msgid "Allow users to order pages in the page overview and add some clarity to the overview"
+msgstr "Permetti agli utenti di riordinare le pagine nella anteprima pagina nonché di aggiungere un po' di chiarezza alla anteprima"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:110
+msgid "Allow users to choose how many pages they want to see in the overview"
+msgstr "Permetti agli utenti la scelta di quante pagine visualizzare nella anteprima"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:111
+msgid "Be able to add multiple content blocks as a developer (<a href=\"http://plugins.trendwerk.nl/documentation/multiple-content-blocks/\" target=\"_blank\">documentation</a>)"
+msgstr "Possibilità per lo sviluppatore di aggiungere dei blocchi a contenuto multiplo (<a href=\"http://plugins.trendwerk.nl/documentation/multiple-content-blocks/\" target=\"_blank\">documentazione</a>)"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:113
+msgid "tinyMCE adjustments"
+msgstr "Regolazione tinyMCE"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:114
+msgid "Make small adjustments to remove unnessecary tinyMCE stuff"
+msgstr "Effettua delle piccole modifiche per rimuovere dal tinyMCE le funzioni non necessarie"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:115
+msgid "Use your templates stylesheet in tinyMCE (but always align left standard)"
+msgstr "Usa il foglio di stile dei tuoi template nel tinyMCE (parametro ad allineamento a sinistra)"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:117
+msgid "Dashboard options"
+msgstr "Opzioni bacheca"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:118
+msgid "HTML page with a list of links that will be displayed on the dashboard (you can always change this, and it will change on all your cms installs)"
+msgstr "Pagina HTML con una lista dei link che saranno mostrati in bacheca (modificabile in qualsiasi momento, sarà applicato a tutte le installazioni CMS)"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:119
+msgid "Link to the feed you want to display for your clients on the front page"
+msgstr "Collegamento al feed che desideri sia mostrato ai tuoi clienti nella pagina principale"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:120
+msgid "Clear the messy dashboard"
+msgstr "Metti in ordine la bacheca"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:122
+msgid "Extra options"
+msgstr "Opzioni aggiuntive"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:123
+msgid "Rename and adjust the position of the plugin menu items"
+msgstr "Rinomina e correggi la posizione del menu dei plugin"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:124
+msgid "Remove the update reminder for users lower than admin"
+msgstr "Rimuovi notifica aggiornamenti per gli utenti aventi un ruolo inferiore ad amministratore"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:125
+msgid "Minimum user level to watch general options"
+msgstr "Livello utente minimo per accedere alle opzioni generali"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:125
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:126
+msgid "roles"
+msgstr "ruoli"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:126
+msgid "Minimum user level to watch admin options"
+msgstr "Livello utente minimo per accedere alle opzioni di amministrazione"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:130
+msgid "Plugin checker"
+msgstr "Verifica plugin"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:182
+msgid "You have all recommended plug-ins installed."
+msgstr "Hai installato tutti i plugin utili."
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:184
+msgid "I recommend these plug-ins if you want to use Wordpress as CMS:"
+msgstr "Volendo utilizzare Wordpress come CMS, dovresti installare questi plugin:"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/add_adminpanel.php:191
+msgid "Save changes"
+msgstr "Salva le modifiche"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:12
+msgid "Create category"
+msgstr "Crea categoria"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:13
+msgid "You did not create a category yet. Please <a href=\"?page=faq-categories\">create one</a> first."
+msgstr "Non hai ancora creato una categoria. Vai <a href=\"?page=faq-categories\">qui</a> per crearne una."
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:28
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:93
+msgid "Actions"
+msgstr "Azioni"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:33
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:98
+msgid "Move to"
+msgstr "Sposta in"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:37
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:102
+msgid "Delete"
+msgstr "Cancella"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:39
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:104
+msgid "Apply"
+msgstr "Applica"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:40
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:105
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-question.php:25
+msgid "Add question"
+msgstr "Aggiungi domanda"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:48
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:57
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-question.php:11
+msgid "Question"
+msgstr "Domanda"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:49
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:58
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-question.php:12
+msgid "Answer"
+msgstr "Risposta"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:85
+msgid "You did not create any questions yet for this category."
+msgstr "Non hai ancora creato nessuna domanda per questa categoria."
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-questions.php:85
+msgid "Create one"
+msgstr "Creane una"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/multiple_content.php:3
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/multiple_content.php:4
+msgid "Multiple content blocks"
+msgstr "Blocchi a contenuto multiplo"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/multiple_content.php:113
+msgid "There are no content blocks in this template."
+msgstr "Non ci sono blocchi in questo template"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/show_more_pages.php:45
+msgid "Show more pages"
+msgstr "Mostra più pagine"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-question.php:10
+msgid "Category"
+msgstr "Categoria"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-question.php:17
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-question.php:25
+msgid "Edit question"
+msgstr "Modifica domanda"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-question.php:17
+msgid "Add"
+msgstr "Aggiungi"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-question.php:17
+msgid "question"
+msgstr "domanda"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-categories.php:12
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-categories.php:66
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-category.php:9
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-category.php:17
+msgid "Add category"
+msgstr "Aggiungi categoria"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-manage-categories.php:54
+msgid "You did not create any categories yet."
+msgstr "Non hai ancora creato nessuna categoria."
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-category.php:4
+msgid "Name"
+msgstr "Nome"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-category.php:9
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-add-category.php:17
+msgid "Edit category"
+msgstr "Modifica categoria"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-insert-category.php:54
+msgid "Insert FAQ"
+msgstr "Inserisci FAQ"
+
+#: \\Fileserver\websites\Trendwerk\test\wp-content\plugins\cms/faq-options.php:9
+msgid "Use Javascript to show the FAQ"
+msgstr "Utilizza Javascript per mostrare le FAQ"
+
+#~ msgid "Add a &quot;Add new&quot; button to Pages/Posts/Users"
+#~ msgstr ""
+#~ "Voeg een &quot;Nieuwe toevoegen&quot; knop toe aan Pagina's/Berichten/"
+#~ "Gebruikers."
+#~ msgid "Reusables"
+#~ msgstr "Inhoudsblok"
+#~ msgid "There was an error ordering the pages."
+#~ msgstr "Er is een fout opgetreden tijdens het orderen van de pagina's."
+#~ msgid "Add new|page"
+#~ msgstr "Nieuwe toevoegen"
+#~ msgid "Add new|post"
+#~ msgstr "Nieuwe toevoegen"
+

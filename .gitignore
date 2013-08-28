@@ -1,3 +1,7 @@
 .htaccess
 *.DS_Store
 *.zip
+
+*.zip
+
+wp-content/managewp/backups/jnq.cloud-genius.com_manual_full_2013-08-20_557903244691ec7627ec9fcb871af717.zip

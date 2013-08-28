@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+.faq_questions_header {
+	float: left;
+}
+
+.faq_questions_dropdown {
+	float: left;
+	clear:none;
+	margin-top: 20px;
+}
+
+#faq_form_action {
+	clear:both;
+	padding-top: 5px;
+}
+
+#faq-wrapper .regular-text {
+	width: 25em;
+}
+
+.faq-move_up, .faq-move_down {
+	width: 15px;
+	height:9px;
+	position:absolute;
+	margin-top: 15px;
+}
+
+.faq-move_up {
+	background:url(../images/move-up_notover.png);
+}
+	.faq-move_up:hover {
+		background:url(../images/move-up.png);
+	}
+
+.faq-move_down {
+	background:url(../images/move-down_notover.png);
+	margin-left: 18px;
+}
+	.faq-move_down:hover {
+		background:url(../images/move-down.png);
+	}
